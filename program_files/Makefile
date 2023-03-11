@@ -23,4 +23,4 @@ data_index.o: data_index.c data_index.h
 quadtree.o: quadtree.c quadtree.h
 
 clean:
-	rm -f *.o dict3 dict4
+	rm -f *.o dict4
