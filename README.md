@@ -1,0 +1,1 @@
+# footpath-quadtree-dictionary
